@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitTestProj", "GitTestProj\GitTestProj.csproj", "{A2D4C6C5-0CEC-4F86-A6D0-B81B9EEF38D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2D4C6C5-0CEC-4F86-A6D0-B81B9EEF38D6}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{A2D4C6C5-0CEC-4F86-A6D0-B81B9EEF38D6}.Debug|anycpu.Build.0 = Debug|anycpu
+		{A2D4C6C5-0CEC-4F86-A6D0-B81B9EEF38D6}.Release|anycpu.ActiveCfg = Release|anycpu
+		{A2D4C6C5-0CEC-4F86-A6D0-B81B9EEF38D6}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
