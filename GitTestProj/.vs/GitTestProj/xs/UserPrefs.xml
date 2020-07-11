@@ -1,15 +1,16 @@
 ﻿<Properties StartupConfiguration="{A2D4C6C5-0CEC-4F86-A6D0-B81B9EEF38D6}|Default">
   <MonoDevelop.Ide.ItemProperties.GitTestProj FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="GitTestProj/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GitTestProj/EmptyClass.cs">
     <Files>
-      <File FileName="GitTestProj/Program.cs" Line="1" Column="1" />
+      <File FileName="GitTestProj/Program.cs" Line="10" Column="54" />
+      <File FileName="GitTestProj/EmptyClass.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="GitTestProj" expanded="True">
             <Node name="GitTestProj" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="EmptyClass.cs" selected="True" />
             </Node>
           </Node>
         </State>
